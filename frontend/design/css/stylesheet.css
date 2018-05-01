@@ -1,0 +1,125 @@
+body{
+	background-image: url("../../images/city.jpg");
+	background-size: cover;
+	opacity: 0.9;
+}
+body hgroup{
+
+	font-family: 'Sigmar One', cursive;
+}
+
+.wrapper{
+	width:1100px;
+	margin: 0 auto;
+	font-family: 'Laila', serif;
+	background-color: #C5D5E4;
+	opacity: 1;
+
+	color: #07070A;
+
+
+}
+.layer{
+	margin-top:15px;
+	margin-bottom:15px;
+}
+.header{
+	background-color:#CCC;
+	padding:10px;
+	overflow:hidden;
+	font-family: 'Sigmar One', cursive;
+
+}
+.logo{
+	float:left;
+}
+.title{
+	float:left;
+	margin-left:15px;
+}
+.account-actions{
+	float:right;
+	margin-top:40px;
+	margin-right:25px;
+}
+.content{
+	background-color:#CCC;
+	padding:10px;
+}
+
+.content a{
+	text-decoration: none;
+	font-size: 30px;
+	color: #07070A;
+}
+.footer{
+
+	text-align:center;
+	padding:10px;
+	font-family: 'Sigmar One', cursive;
+	color: #24272B;
+ 
+}
+.content-wrapper{
+
+}
+.avatar {
+	width: 560px;
+	height: 450px;
+	margin-left: 10px;
+	margin-right: 10px;
+	float: left;
+}
+.avatar image{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	padding-top: 5px;
+}
+
+.keep{
+	margin-top:202px;
+	margin-left:223px;
+}
+.keep image{
+	border: none;
+	margin: 0 auto;
+}
+.stats{
+	width:250px;
+	height:450px;
+	float:left;
+}
+.sidebar{
+	width:250px;
+	height:450px;
+	float:left;
+	overflow:hidden;
+}
+.chatbox{
+	width: 250px;
+	margin: 0 auto;
+	background-color: #2b669a;
+	color: black;
+	border: 1px solid black;
+	height: 210px;
+	padding: 10px;
+
+
+}
+.input{
+	width: 260px;
+	margin: 0 auto;
+	padding: 5px;
+	margin-top: 5px;
+	font: 1em Arial;
+
+}
+.message a{
+	color: slategray;
+	font-size: medium;
+ }
+.message p{
+	margin: 5px 0;
+}
