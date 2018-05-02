@@ -13,6 +13,11 @@ Chat with other players, online or offline through a realtime global chat system
 
 Climb the rankings of prestige and become the richest player on in the game!
 
+# Forgot to include
+Chat system is stateful and works in realtime on multiple computers/multiple users using ajax (forgot to show in video)
+
+Leaderboard system has been implemented to be viewed from the "Contact.php" screen (forgot to show in video)
+
 
 
 
